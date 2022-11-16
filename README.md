@@ -31,9 +31,9 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 <!-- web related skills section starts here  -->
 
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
+### 👨🏽‍💻 &nbsp; My Skills:
 
-#### Key Skills & Videos on Web development:
+#### Key Skills on Web development:
 
 [<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
 [<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
@@ -54,7 +54,7 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 <!-- web related skills section ends here  -->
 <!-- other skills and my videos for computer science section starts here  -->
 
-#### Other Skills & Videos:
+#### Other Skills:
 
 [<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
 [<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
@@ -71,7 +71,7 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santo1989)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true)
 
@@ -97,7 +97,7 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ 
-| Software Consultate | X-Cool|                                   | Oct 2022 - Present | Dhaka, Finland   |
+| Software Consultate (Remote) | X-Cool                             | Oct 2022 - Present  | Mumbai, India      |
 | Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
 
 <br />
@@ -133,8 +133,10 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
 - 🇮🇳 Hindi : Intermediate
-- GER German : Intermediate
-- KER Korian : Intermediate
+- DE German : Intermediate
+- KR Korean : Intermediate
+- IN Panjabi : Intermediate
+- PAK Urdo : Intermediate
 
   <br />
 
@@ -155,9 +157,13 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 ### 🏅 Honors & Awards :
 
-- 100% Scholarship in Masters at Tampere University, Finland
-- Silver Button from YouTube (350k subscribers currently)
-- Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
+- Sonali Bank Ltd. Scholarship of 10,000 BDT (Every times) for outstanding result in SSC, B.Sc, M.Sc
+- Bangladesh Government Scholarship on SEIP program for PHP with Laravel Framework Web Development.
+- Placed Third at “7th March Essay Compaction” (2014), an Essay competition at Govt. Titumir College in the Writer category.
+- Placed Second in “Father of the Nation Birth Anniversary Essay Compaction” (2013), an Essay competition at Govt. Titumir College in the Writer category.
+- Placed First in “Science Essay Competition” (2003), an Essay competition in Gazipur District in the Writer category.
+- Placed Second at “International Mother Language IQ Compaction” (2001), an IQ competition in Gazipur District in the Junior category.
+-
 
 ---
 
