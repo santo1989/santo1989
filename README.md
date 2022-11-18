@@ -4,7 +4,7 @@
 
 <h1> 👋 Hello, I'm Hasibul Islam Santo</h1>
 
- Web Developer, Bontanist, Tech Enthusiast
+Engineer, Developer, Bontanist, Tech Enthusiast
 🏠 &nbsp; Living: Tongi, Gazipur, Bangladesh.
 
 <!-- Contact me section starts here  -->
