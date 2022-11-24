@@ -98,7 +98,8 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ 
 | Software Consultate (Remote) | X-Cool                             | Oct 2022 - Present  | Mumbai, India      |
-| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
+| Web Developer ( Intern ) | Pondit                             | March 2022 - Sept 2022  | Uttara, Dhaka      |
+| Content Creator     | YouTube                                     | Jan 2015- Running   | USA                |
 
 <br />
 <!-- work experience section ends here  -->
@@ -157,8 +158,10 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 ### 🏅 Honors & Awards :
 
-- Sonali Bank Ltd. Scholarship of 10,000 BDT (Every times) for outstanding result in SSC, B.Sc, M.Sc
+
 - Bangladesh Government Scholarship on SEIP program for PHP with Laravel Framework Web Development.
+- WSDA Professional English Communication Skills Training Certificate
+- Sonali Bank Ltd. Scholarship of 10,000 BDT (Every times) for outstanding result in SSC, B.Sc, M.Sc
 - Placed Third at “7th March Essay Compaction” (2014), an Essay competition at Govt. Titumir College in the Writer category.
 - Placed Second in “Father of the Nation Birth Anniversary Essay Compaction” (2013), an Essay competition at Govt. Titumir College in the Writer category.
 - Placed First in “Science Essay Competition” (2003), an Essay competition in Gazipur District in the Writer category.
