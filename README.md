@@ -103,6 +103,11 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 <br />
 <!-- work experience section ends here  -->
+
+### 💼 Entrepreneur
+Founder & CEO, Break-IT
+[website]: https://breakitsolution.com/
+
 <!-- education section starts here  -->
 
 ### 👨🏻‍🎓 &nbsp; Education
@@ -166,7 +171,7 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 - Placed Second in “Father of the Nation Birth Anniversary Essay Compaction” (2013), an Essay competition at Govt. Titumir College in the Writer category.
 - Placed First in “Science Essay Competition” (2003), an Essay competition in Gazipur District in the Writer category.
 - Placed Second at “International Mother Language IQ Compaction” (2001), an IQ competition in Gazipur District in the Junior category.
--
+
 
 ---
 
