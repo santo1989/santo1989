@@ -105,8 +105,8 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 <!-- work experience section ends here  -->
 
 ### 💼 Entrepreneur
-Founder & CEO, Break-IT
-[website]: https://breakitsolution.com/
+### Founder & CEO, Break-IT
+website: https://breakitsolution.com/
 
 <!-- education section starts here  -->
 
