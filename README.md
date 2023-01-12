@@ -69,11 +69,12 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santo1989)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santo1989)](https://github.com/anuraghazra/github-readme-stats) -->
+[![santo1989's GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true) -->
 
 <br/>
 
