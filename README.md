@@ -23,7 +23,7 @@ Engineer, Developer, Bontanist, Tech Enthusiast
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate Tech Enthusiast. I have been learning programming languages, web development, and computer science-related subjects. Now my goal to start my master's in Deep Learning. Every day I want to learn something new which create value in my life.
+I am a passionate Tech Enthusiast. I have been learning programming languages, web development, and computer science-related subjects. Now my goal to start my master's in Deep Learning. Every day I want to learn something new which create value in my life. 
 </p>
 
 <br />
@@ -176,7 +176,7 @@ website: https://breakitsolution.com/
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Hasibul Islam Santo @2023
+All rights reserved by Hasibul Islam Santo @2021-23
 
 ---
 
@@ -189,6 +189,9 @@ All rights reserved by Hasibul Islam Santo @2023
 [facebook]: https://www.facebook.com/Santo1989
 [linkedin]: https://www.linkedin.com/in/shanto1989/
 [github]: https://github.com/santo1989
+[beecrowd]: https://www.beecrowd.com.br/judge/en/profile/687001
+[codeforces]: https://codeforces.com/profile/his.cse
+[hackerrank]: https://www.hackerrank.com/santo_botany
 
 <!-- web related playlists starts here  -->
 
