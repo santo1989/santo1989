@@ -76,6 +76,8 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true) -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 <br/>
 
 <!-- github stats ends here  -->
