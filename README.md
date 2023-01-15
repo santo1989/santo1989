@@ -8,7 +8,6 @@ Engineer, Developer, Bontanist, Tech Enthusiast
 🏠 &nbsp; Living: Tongi, Gazipur, Bangladesh.
 
 <!-- Contact me section starts here  -->
-- 📫 How to reach me **his.cse@gmail.com** <br />
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
@@ -27,6 +26,7 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 </p>
 
 <br />
+- 📫 Message Me: **his.cse@gmail.com** <br />
 <!-- about-me section ends here  -->
 
 <!-- web related skills section starts here  -->
@@ -34,7 +34,7 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 ### 👨🏽‍💻 &nbsp; My Skills:
 
 #### Key Skills on Web development:
-
+<p align="justify"> 
 [<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
 [<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
 [<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />]
@@ -46,49 +46,16 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 [<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
 [<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
-<p align="left"> <a href="https://www.docker.com/" 
-target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-alt="docker" width="40" height="40"/> </a> <a 
-href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img 
-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" 
-width="40" height="40"/> </a> <a 
-href="https://www.adobe.com/in/products/illustrator.html" target="_blank" 
-rel="noreferrer"> <img 
-src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
-alt="illustrator" width="40" height="40"/> </a> <a 
+ <a 
 href="https://laravel.com/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
 alt="laravel" width="40" height="40"/> </a> <a 
 href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-alt="linux" width="40" height="40"/> </a>  <a 
-href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" 
-alt="photoshop" width="40" height="40"/> </a> <a 
+alt="linux" width="40" height="40"/> </a>   <a 
 href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-alt="php" width="40" height="40"/> </a> <a href="https://postman.com" 
-target="_blank" rel="noreferrer"> <img 
-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-alt="postman" width="40" height="40"/> </a> <a 
-href="https://www.adobe.com/products/xd.html" target="_blank" 
-rel="noreferrer"> <img 
-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" 
-width="40" height="40"/> </a> </p>
-
-<p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=santo1989&show_icons=true&locale=en&layout=compact" 
-alt="santo1989" /></p>
-
-<p>&nbsp;<img align="center" 
-src="https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true&locale=en" 
-alt="santo1989" /></p>
-
-<p><img align="center" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=santo1989&" 
-alt="santo1989" /></p>
-
+alt="php" width="40" height="40"/> </a>  </p>
 <br />
 <br />
 <br />
@@ -102,6 +69,31 @@ alt="santo1989" /></p>
 [<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
 [<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />]
 
+#### Tools:
+<p align="justify">
+  <a href="https://www.docker.com/" 
+target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+alt="docker" width="40" height="40"/> </a> <a 
+href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img 
+src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" 
+width="40" height="40"/> </a> <a 
+href="https://www.adobe.com/in/products/illustrator.html" target="_blank" 
+rel="noreferrer"> <img 
+src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
+alt="illustrator" width="40" height="40"/> </a><a 
+href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" 
+alt="photoshop" width="40" height="40"/> </a><a href="https://postman.com" 
+target="_blank" rel="noreferrer"> <img 
+src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+alt="postman" width="40" height="40"/> </a> <a 
+href="https://www.adobe.com/products/xd.html" target="_blank" 
+rel="noreferrer"> <img 
+src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" 
+width="40" height="40"/> </a>
+  </p>
+
 <br/>
 <br/>
 <br/>
@@ -112,7 +104,7 @@ alt="santo1989" /></p>
 <!-- github stats starts here  -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santo1989)](https://github.com/anuraghazra/github-readme-stats) -->
-[![santo1989's GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![santo1989's GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -120,12 +112,18 @@ alt="santo1989" /></p>
 
 <!-- ![santo1989's GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&count_private=true) -->
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfhkH5b6-DX6iCkg-ADW7zOAsSJP3Xml4rLw&usqp=CAU">
+<p><img align="left" 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=santo1989&show_icons=true&locale=en&layout=compact" 
+alt="santo1989" /></p>
 
-<p align="left"> <img 
-src="https://komarev.com/ghpvc/?username=santo1989&label=Profile%20views&color=0e75b6&style=flat" 
-alt="santo1989" /> </p>
+<p>&nbsp;<img align="center" 
+src="https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true&locale=en" 
+alt="santo1989" /></p>
 
+<p><img align="center" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=santo1989&" 
+alt="santo1989" /></p>
+<br/>
 <p align="left"> <a 
 href="https://github.com/ryo-ma/github-profile-trophy"><img 
 src="https://github-profile-trophy.vercel.app/?username=santo1989" 
