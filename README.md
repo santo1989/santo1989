@@ -76,7 +76,7 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true) -->
 
-![santo1989's GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&count_private=true)
+<!-- ![santo1989's GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&count_private=true) -->
 
 <br/>
 
@@ -191,9 +191,9 @@ All rights reserved by Hasibul Islam Santo @2021-23
 [youtube]: https://www.youtube.com/channel/UCC4nkkVV44aVmXg3aGBxaDQ
 [facebook]: https://www.facebook.com/Santo1989
 [linkedin]: https://www.linkedin.com/in/shanto1989/
-[github]: https://github.com/santo1989
+[github]: https://www.github.com/santo1989
 [beecrowd]: https://www.beecrowd.com.br/judge/en/profile/687001
-[codeforces]: https://codeforces.com/profile/his.cse
+[codeforces]: https://www.codeforces.com/profile/his.cse
 [hackerrank]: https://www.hackerrank.com/santo_botany
 
 <!-- web related playlists starts here  -->
