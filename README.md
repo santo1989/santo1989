@@ -100,7 +100,7 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ 
-| Software Consultate (Remote) | X-Cool                             | Oct 2022 - Present  | Mumbai, India      |
+| Software Consultant (Remote) | X-Cool                             | Oct 2022 - Present  | Mumbai, India      |
 | Web Developer ( Intern ) | Pondit                             | March 2022 - Sept 2022  | Uttara, Dhaka      |
 | Content Creator     | YouTube                                     | Jan 2015- Running   | USA                |
 
