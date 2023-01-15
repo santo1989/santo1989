@@ -26,7 +26,6 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 </p>
 
 <br />
-- 📫 Message Me: **his.cse@gmail.com** <br />
 <!-- about-me section ends here  -->
 
 <!-- web related skills section starts here  -->
@@ -57,8 +56,6 @@ href="https://www.php.net" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
 alt="php" width="40" height="40"/> </a>  </p>
 <br />
-<br />
-<br />
 
 <!-- web related skills section ends here  -->
 <!-- other skills and my videos for computer science section starts here  -->
@@ -68,6 +65,8 @@ alt="php" width="40" height="40"/> </a>  </p>
 [<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
 [<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
 [<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />]
+
+<br />
 
 #### Tools:
 <p align="justify">
@@ -95,11 +94,9 @@ width="40" height="40"/> </a>
   </p>
 
 <br/>
-<br/>
-<br/>
+
   <!-- other skills and my videos for computer science section ends here  -->
 
-  <br/>
 
 <!-- github stats starts here  -->
 
@@ -112,19 +109,15 @@ width="40" height="40"/> </a>
 
 <!-- ![santo1989's GitHub stats](https://github-readme-stats.vercel.app/api?username=santo1989&count_private=true) -->
 
-<p><img align="left" 
+<p align="justify"><img 
 src="https://github-readme-stats.vercel.app/api/top-langs?username=santo1989&show_icons=true&locale=en&layout=compact" 
-alt="santo1989" /></p>
-
-<p>&nbsp;<img align="center" 
+alt="santo1989" /><img  
 src="https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true&locale=en" 
-alt="santo1989" /></p>
-
-<p><img align="center" 
+alt="santo1989" /><img 
 src="https://github-readme-streak-stats.herokuapp.com/?user=santo1989&" 
 alt="santo1989" /></p>
 <br/>
-<p align="left"> <a 
+<p align="justify"> <a 
 href="https://github.com/ryo-ma/github-profile-trophy"><img 
 src="https://github-profile-trophy.vercel.app/?username=santo1989" 
 alt="santo1989" /></a> </p>
@@ -162,6 +155,8 @@ alt="santo1989" /></a> </p>
 ### Founder & CEO, Break-IT
 website: https://breakitsolution.com/
 
+
+<br />
 <!-- education section starts here  -->
 
 ### 👨🏻‍🎓 &nbsp; Education
@@ -250,14 +245,3 @@ All rights reserved by Hasibul Islam Santo @2021-23
 <!-- web related playlists starts here  -->
 
 <!-- Links section ends here -->
-
-
-
-
-
-
-
-
-
-
-
