@@ -45,16 +45,15 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 [<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
 [<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
- <a 
-href="https://laravel.com/" target="_blank" rel="noreferrer"> <img 
+[<img align="left" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
-alt="laravel" width="40" height="40"/> </a> <a 
-href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img 
+alt="laravel" width="40" height="40"/>] 
+ [<img align="left" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-alt="linux" width="40" height="40"/> </a>   <a 
-href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
+alt="linux" width="40" height="40"/>]  
+ [<img align="left" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-alt="php" width="40" height="40"/> </a>  </p>
+alt="php" width="40" height="40"/>] </p>
 <br />
 
 <!-- web related skills section ends here  -->
