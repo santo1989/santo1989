@@ -4,7 +4,7 @@
 
 <h1> 👋 Hello, I'm Hasibul Islam Santo</h1>
 
-Engineer, Developer, Bontanist, Tech Enthusiast
+Engineer, Developer, Bontanist, Tech Enthusiast <br />
 🏠 &nbsp; Living: Tongi, Gazipur, Bangladesh.
 
 <!-- Contact me section starts here  -->
@@ -111,9 +111,9 @@ width="40" height="40"/> </a>
 
 <p align="justify"><img 
 src="https://github-readme-stats.vercel.app/api/top-langs?username=santo1989&show_icons=true&locale=en&layout=compact" 
-alt="santo1989" /><img  
+alt="santo1989" />&nbsp;<img  
 src="https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true&locale=en" 
-alt="santo1989" /><img 
+alt="santo1989" />&nbsp;<img 
 src="https://github-readme-streak-stats.herokuapp.com/?user=santo1989&" 
 alt="santo1989" /></p>
 <br/>
@@ -238,9 +238,9 @@ All rights reserved by Hasibul Islam Santo @2021-23
 [facebook]: https://www.facebook.com/Santo1989
 [linkedin]: https://www.linkedin.com/in/shanto1989/
 [github]: https://www.github.com/santo1989
-[beecrowd]: https://www.beecrowd.com.br/judge/en/profile/687001
+<!-- [beecrowd]: https://www.beecrowd.com.br/judge/en/profile/687001
 [codeforces]: https://www.codeforces.com/profile/his.cse
-[hackerrank]: https://www.hackerrank.com/santo_botany
+[hackerrank]: https://www.hackerrank.com/santo_botany -->
 
 <!-- web related playlists starts here  -->
 
