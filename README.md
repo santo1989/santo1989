@@ -34,26 +34,26 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
 
 #### Key Skills on Web development:
 <p align="justify"> 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
-[<img align="left" 
+<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />
+<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />
+<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />
+<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />
+<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />
+<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />
+<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />
+<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />
+<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />
+<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />
+<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />
+<img align="left" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
-alt="laravel" width="40" height="40"/>] 
- [<img align="left" 
+alt="laravel" width="40" height="40"/> 
+ <img align="left" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-alt="linux" width="40" height="40"/>]  
- [<img align="left" 
+alt="linux" width="40" height="40"/>  
+<img align="left" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-alt="php" width="40" height="40"/>] </p>
+alt="php" width="40" height="40"/> </p>
 <br />
 
 <!-- web related skills section ends here  -->
@@ -61,9 +61,9 @@ alt="php" width="40" height="40"/>] </p>
 
 #### Other Skills:
 
-[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
-[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />]
+<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
+<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />
+<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />
 
 <br />
 
