@@ -58,7 +58,7 @@ alt="php" width="40" height="40"/> </p>
 
 <!-- web related skills section ends here  -->
 <!-- other skills and my videos for computer science section starts here  -->
-
+<br />
 #### Other Skills:
 
 <img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
