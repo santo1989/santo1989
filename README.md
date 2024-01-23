@@ -22,7 +22,7 @@ Engineer, Software Developer, Bontanist, Tech Enthusiast <br />
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate Tech Enthusiast. I have been learning programming languages, web development, and computer science-related subjects. Now my goal to start my master's in Deep Learning. Every day I want to learn something new that create value in my life. 
+I am a passionate Tech Enthusiast. I have been learning programming languages, web development, and computer science-related subjects. Now my goal is to start my master's in Data Engineering. Every day I want to learn something new that creates value in my life. 
 </p>
 
 <br />
