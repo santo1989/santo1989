@@ -158,7 +158,7 @@ alt="santo1989" /></a> </p>
 <!-- work experience section ends here  -->
 
 ### 💼 Entrepreneur
-### Founder & CEO, Break-IT
+### Founder, Break-IT
 website: https://breakitsolution.com/
 
 
