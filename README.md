@@ -50,7 +50,7 @@ I am a passionate Tech Enthusiast. I have been learning programming languages, w
  
 <img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />
 <img align="left" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
+src="https://rizwanranjha.com/wp-content/uploads/2022/08/Laravel-Framework.png" 
 alt="laravel" width="40" height="40"/> 
  <img align="left" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
@@ -94,8 +94,14 @@ src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
 alt="postman" width="40" height="40"/> </a> <a 
 href="https://www.adobe.com/products/xd.html" target="_blank" 
 rel="noreferrer"> <img 
-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" 
+src="https://w7.pngwing.com/pngs/565/63/png-transparent-adobe-xd-macos-bigsur-icon-thumbnail.png" alt="xd" 
 width="40" height="40"/> </a>
+ <a 
+href="https://app.powerbi.com/" target="_blank" 
+rel="noreferrer"> <img 
+src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="BI" 
+width="90" height="40"/> </a>
+ 
   </p>
 
 <br/>
