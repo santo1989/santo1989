@@ -246,7 +246,7 @@ website: https://breakitsolution.com/
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Hasibul Islam Santo @2021-24
+All rights reserved by Hasibul Islam Santo @2021-25
 
 ---
 
