@@ -166,6 +166,7 @@ alt="santo1989" /></a> </p>
 ### 💼 Entrepreneur
 ### Founder, Break-IT
 website: https://breakitsolution.com/
+### CTO & CO-Founder, Augusta IT
 
 
 <br />
@@ -189,8 +190,12 @@ website: https://breakitsolution.com/
    BGTC.
 7. PHP with Laravel Framework
    SEIP Project, Bangladesh Government Project
-8. Flutter App Development
-   National Academy for Computer Training and Research (NACTAR)
+8. National Academy for Computer Training and Research (NACTAR)
+   a) 90 Hours Flutter App Development
+   b) 90 Hours JavaScript Development
+   c) 360 Hours Machine Learning and Data Science
+   d) 360 Hours Cisco Certified Network Associate (CCNA)
+
 
 
 <br />
