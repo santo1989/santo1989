@@ -66,7 +66,7 @@ I work end to end: PHP/Laravel and Go on the backend, JavaScript and Blade on th
 | --- | --- | --- |
 | [PCM](https://github.com/santo1989/PCM) | Personal cash-management app — cash accounts, 50/30/20 budgeting, and spend analytics | Laravel · MySQL · Power BI |
 | [BoiSamahar API](https://github.com/santo1989/BoiSamahar-API) | Backend for a published [Android app](https://play.google.com/store/apps/details?id=com.senani.BoiSamahar) — token auth with Sanctum | Laravel · Sanctum · REST |
-| [E-Commerce Order Management API](https://github.com/santo1989/E-Commerce-Order-Management-System) | Order and inventory API — Repository → Service → Action layering, events, queued jobs, OpenAPI spec | Laravel · JWT · Docker |
+| [Laravel Shopify App](https://github.com/santo1989/laravel-shopify-app) | Merchant app that talks to the Shopify API to manage stores and orders | Laravel · Blade · Shopify API |
 | [Freelance Time Tracker](https://github.com/santo1989/freelance-time-tracker) | API for tracking billable time across multiple clients and projects | Laravel · REST |
 | [Go Task Manager](https://github.com/santo1989/go_project_task_manage) | RESTful task-management API with user authentication | Go · SQLite |
 | [Mini Support Ticketing System](https://github.com/santo1989/Mini-Support-Ticketing-System) | REST backend for managing customer support tickets | PHP · MySQL |
@@ -88,13 +88,6 @@ Founder, Break-IT · Co-Founder & CTO, Augusta IT
 - **B.Sc. (Hons) in Botany** — National University — First Class, 2nd in National Merit List
 - **PHP with Laravel Framework** — SEIP, Government of Bangladesh (scholarship)
 - **NACTAR** — Machine Learning & Data Science (360h) · CCNA (360h) · JavaScript (90h) · Flutter App Development (90h)
-
-## GitHub Activity
-
-<p align="center">
-  <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=santo1989&show_icons=true&include_all_commits=true&hide_border=true&locale=en">
-  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=santo1989&layout=compact&hide_border=true&locale=en">
-</p>
 
 ---
 
