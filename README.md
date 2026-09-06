@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shanto1989/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://hasibulislamsanto.breakitsolution.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://sites.google.com/site/santobotany/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.youtube.com/@santo.botany"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
   <a href="https://orcid.org/0009-0005-3050-1249"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
 </p>
@@ -79,7 +79,7 @@ I work end to end: PHP/Laravel and Go on the backend, JavaScript and Blade on th
 | Software Consultant (Remote) | X-Cool — Mumbai, India | Oct 2022 – Feb 2023 |
 | Web Developer (Intern) | Pondit — Uttara, Dhaka | Mar 2022 – Sep 2022 |
 
-Founder, [Break-IT](https://breakitsolution.com/) · Co-Founder & CTO, Augusta IT
+Founder, Break-IT · Co-Founder & CTO, Augusta IT
 
 ## Education & Certifications
 
@@ -101,5 +101,5 @@ Founder, [Break-IT](https://breakitsolution.com/) · Co-Founder & CTO, Augusta I
 <p align="center">
   Open to full-stack and BI / data engineering roles —
   <a href="https://www.linkedin.com/in/shanto1989/">LinkedIn</a> ·
-  <a href="https://hasibulislamsanto.breakitsolution.com/">Portfolio</a>
+  <a href="https://sites.google.com/site/santobotany/">Portfolio</a>
 </p>
